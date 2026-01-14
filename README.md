@@ -4,5 +4,12 @@ This repository automatically checks the status of my websites at regular interv
 
 ## Live Status
 <!-- START_STATUS -->
-No data available yet.
+| Webseite | Status | Info |
+| :--- | :---: | :--- |
+| https://www.ademoencue.de | ✔ Online | 200 |
+| https://adminhype.github.io/joinKanban/ | ✔ Online | 200 |
+| https://kanmind.ademoencue.de/ | ✔ Online | 200 |
+| https://coderr.ademoencue.de/ | ✔ Online | 200 |
+
+_Zuletzt aktualisiert: 2026-01-14 23:53 UTC_
 <!-- END_STATUS -->
