@@ -1,0 +1,43 @@
+name: Update Status README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Run Monitor Script
+      continue-on-error: true 
+      run: python src/monitor.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        
+        # Prüfen, ob sich was geändert hat
+        if [[ -n $(git status -s) ]]; then
+          git add README.md
+          git commit -m "docs: update uptime status"
+          git push
+        else
+          echo "No changes to commit."
+        fi
