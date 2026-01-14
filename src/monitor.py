@@ -18,7 +18,7 @@ def check_site(url: str) -> Tuple[bool, str]:
         return False, "Timeout"
     except requests.exceptions.ConnectionError:
         return False, "DNS/Connection Error"
-    except requests.exceptions.RequestException as e:
+    except requests.exceptions.RequestException:
         return False, "Error"
 
 
