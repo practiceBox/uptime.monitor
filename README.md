@@ -1,4 +1,4 @@
-# Uptime Monitor
+[![Quality & Test](https://github.com/practiceBox/uptime.monitor/actions/workflows/quality-check.yml/badge.svg)](https://github.com/practiceBox/uptime.monitor/actions/workflows/quality-check.yml)
 
 This repository automatically checks the status of my websites at regular intervals.
 
