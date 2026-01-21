@@ -24,7 +24,7 @@ def update_readme(results: List[Dict]) -> bool:
     new_content = "\n".join(lines) + "\n"
 
     if not readme_path.exists():
-        print(f"Error: README not found.")
+        print("Error: README not found.")
         return False
 
     with open(readme_path, "r", encoding="utf-8") as f:
