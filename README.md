@@ -4,12 +4,13 @@ This repository automatically checks the status of my websites at regular interv
 
 ## Live Status
 <!-- START_STATUS -->
-| Webseite | Status | Info |
+| WEBSITE | STATUS | INFO |
 | :--- | :---: | :--- |
-| https://www.ademoencue.de | ✔ Online | 200 |
-| https://adminhype.github.io/joinKanban/ | ✔ Online | 200 |
-| https://kanmind.ademoencue.de/ | ✔ Online | 200 |
-| https://coderr.ademoencue.de/ | ✔ Online | 200 |
+| https://www.ademoencue.de | ✔ OOOONNN | 200 |
+| https://adminhype.github.io/joinKanban/ | ✔ OOOONNN | 200 |
+| https://kanmind.ademoencue.de/ | ✔ OOOONNN | 200 |
+| https://coderr.ademoencue.de/ | ✔ OOOONNN | 200 |
+| https://notexist.example.de | ❌ OOOOFFF | DNS/Connection Error |
 
-_Zuletzt aktualisiert: 2026-01-15 18:30 UTC_
+_Last Updated: 2026-01-21 22:58 UTC_
 <!-- END_STATUS -->
