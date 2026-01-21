@@ -22,20 +22,25 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests
+        pip install -r requirements.txt
+
+    - name: Run Tests
+      run: pytest
 
     - name: Run Monitor Script
       continue-on-error: true 
-      run: python src/monitor.py
-
+      env:
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      run: python main.py
+      
     - name: Commit and Push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         
-        # Prüfen, ob sich was geändert hat
-        if [[ -n $(git status -s) ]]; then
-          git add README.md
+        git add README.md
+        
+        if ! git diff --cached --quiet; then
           git commit -m "docs: update uptime status"
           git push
         else

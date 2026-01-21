@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://www.ademoencue.de",
+        "name": "Ado"
+    },
+    {
+        "url": "https://adminhype.github.io/joinKanban/",
+        "name": "Join"
+    },
+    {
+        "url": "https://kanmind.ademoencue.de/",
+        "name": "KanMind"
+    },
+    {
+        "url": "https://coderr.ademoencue.de/",
+        "name": "Coderr"
+    },
+    {
+        "url": "https://notexist.example.de",
+        "name": "fail"
+    }
+]
