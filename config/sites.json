@@ -1,7 +1,7 @@
 [
     {
         "url": "https://www.ademoencue.de",
-        "name": "Ado"
+        "name": "Adem_Oencue"
     },
     {
         "url": "https://adminhype.github.io/joinKanban/",
@@ -14,9 +14,5 @@
     {
         "url": "https://coderr.ademoencue.de/",
         "name": "Coderr"
-    },
-    {
-        "url": "https://notexist.example.de",
-        "name": "fail"
     }
 ]

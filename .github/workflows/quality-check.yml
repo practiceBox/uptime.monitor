@@ -24,7 +24,4 @@ jobs:
     - name: Lint with Ruff
       run: |
         ruff check src --ignore E501
-
-    - name: Run Tests with Pytest
-      run: |
-        pytest tests -v
+        

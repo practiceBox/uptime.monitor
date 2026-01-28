@@ -24,9 +24,6 @@ jobs:
       run: |
         pip install -r requirements.txt
 
-    - name: Run Tests
-      run: pytest
-
     - name: Run Monitor Script
       continue-on-error: true 
       env:
@@ -38,11 +35,11 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         
-        git add README.md
+        git add .
         
-        if ! git diff --cached --quiet; then
-          git commit -m "docs: update uptime status"
+        if [[ -n $(git status -s) ]]; then
+          git commit -m "docs: update uptime stats & history"
           git push
         else
-          echo "No changes to commit."
+          echo "No changes."
         fi

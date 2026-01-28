@@ -1,0 +1,130 @@
+[
+  {
+    "time": "23:34",
+    "Ado": 0.713053,
+    "Join": 0.506494,
+    "KanMind": 0.506583,
+    "Coderr": 0.396883,
+    "fail": 0
+  },
+  {
+    "time": "23:35",
+    "Ado": 0.613641,
+    "Join": 0.417266,
+    "KanMind": 0.542932,
+    "Coderr": 0.333325,
+    "fail": 0
+  },
+  {
+    "time": "23:37",
+    "Adem_Oencue": 0.335822,
+    "Join": 0.292493,
+    "KanMind": 0.370899,
+    "Coderr": 0.343405,
+    "fail": 0
+  },
+  {
+    "time": "23:43",
+    "Adem_Oencue": 0.61693,
+    "Join": 0.491208,
+    "KanMind": 0.468564,
+    "Coderr": 0.351969,
+    "fail": 0
+  },
+  {
+    "time": "23:44",
+    "Adem_Oencue": 0.362146,
+    "Join": 0.360992,
+    "KanMind": 0.356933,
+    "Coderr": 0.400596,
+    "fail": 0
+  },
+  {
+    "time": "23:50",
+    "Adem_Oencue": 0.621387,
+    "Join": 0.45501,
+    "KanMind": 0.363165,
+    "Coderr": 0.343041,
+    "fail": 0
+  },
+  {
+    "time": "23:52",
+    "Adem_Oencue": 0.480009,
+    "Join": 0.444104,
+    "KanMind": 0.350735,
+    "Coderr": 0.553256,
+    "fail": 0
+  },
+  {
+    "time": "22:11",
+    "Adem_Oencue": 0.602533,
+    "Join": 0.624548,
+    "KanMind": 0.657717,
+    "Coderr": 0.541703,
+    "fail": 0
+  },
+  {
+    "time": "22:11",
+    "Adem_Oencue": 0.763784,
+    "Join": 0.29637,
+    "KanMind": 0.412609,
+    "Coderr": 0.853922,
+    "fail": 0
+  },
+  {
+    "time": "22:11",
+    "Adem_Oencue": 0.547613,
+    "Join": 0.57589,
+    "KanMind": 0.430854,
+    "Coderr": 0.306784,
+    "fail": 0
+  },
+  {
+    "time": "22:12",
+    "Adem_Oencue": 0.303525,
+    "Join": 0.307192,
+    "KanMind": 0.309198,
+    "Coderr": 0.297399,
+    "fail": 0
+  },
+  {
+    "time": "22:13",
+    "Adem_Oencue": 0.840075,
+    "Join": 0.473726,
+    "KanMind": 0.43071,
+    "Coderr": 0.471503,
+    "fail": 0
+  },
+  {
+    "time": "22:13",
+    "Adem_Oencue": 0.380397,
+    "Join": 0.296722,
+    "KanMind": 0.366532,
+    "Coderr": 0.367954,
+    "fail": 0
+  },
+  {
+    "time": "22:13",
+    "Adem_Oencue": 0.982389,
+    "Join": 0.331868,
+    "KanMind": 0.589591,
+    "Coderr": 0.501042,
+    "fail": 0
+  },
+  {
+    "time": "22:15",
+    "Adem_Oencue": 0.426904,
+    "Join": 0.47651,
+    "KanMind": 0.42663,
+    "Coderr": 0.829717,
+    "fail": 0
+  },
+  {
+    "time": "22:16",
+    "Adem_Oencue": 0.330648,
+    "Join": 0.274587,
+    "KanMind": 0.3185,
+    "Coderr": 0.345323,
+    "fail": 0
+  }
+]

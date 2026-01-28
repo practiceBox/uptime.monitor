@@ -1,0 +1,39 @@
+[
+  {
+    "time": "22:20",
+    "Adem_Oencue": 0.319532,
+    "Join": 0.607427,
+    "KanMind": 0.675948,
+    "Coderr": 0.745152,
+    "fail": 0
+  },
+  {
+    "time": "22:20",
+    "Adem_Oencue": 0.524612,
+    "Join": 0.52677,
+    "KanMind": 0.416431,
+    "Coderr": 0.346727,
+    "fail": 0
+  },
+  {
+    "time": "22:21",
+    "Adem_Oencue": 0.693593,
+    "Join": 0.423584,
+    "KanMind": 0.479213,
+    "Coderr": 0.331246
+  },
+  {
+    "time": "22:22",
+    "Adem_Oencue": 0.575071,
+    "Join": 1.215122,
+    "KanMind": 0.521794,
+    "Coderr": 0.506202
+  },
+  {
+    "time": "22:23",
+    "Adem_Oencue": 0.378195,
+    "Join": 0.637842,
+    "KanMind": 0.546077,
+    "Coderr": 0.486923
+  }
+]
