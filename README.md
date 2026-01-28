@@ -4,13 +4,14 @@ This repository automatically checks the status of my websites at regular interv
 
 ## Live Status
 <!-- START_STATUS -->
-| WEBSITE | STATUS | INFO |
-| :--- | :---: | :--- |
-| https://www.ademoencue.de | ✔ OOOONNN | 200 |
-| https://adminhype.github.io/joinKanban/ | ✔ OOOONNN | 200 |
-| https://kanmind.ademoencue.de/ | ✔ OOOONNN | 200 |
-| https://coderr.ademoencue.de/ | ✔ OOOONNN | 200 |
-| https://notexist.example.de | ❌ OOOOFFF | DNS/Connection Error |
+![Uptime Graph](uptime_chart.png)
 
-_Last Updated: 2026-01-28 18:31 UTC_
+| Website | Status | Latency | Info |
+| :--- | :---: | :---: | :--- |
+| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.38s` | 200 (0.38s) |
+| **Join** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.64s` | 200 (0.64s) |
+| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.55s` | 200 (0.55s) |
+| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.49s` | 200 (0.49s) |
+
+_Last updated: 28.01.2026 21:23 UTC_
 <!-- END_STATUS -->

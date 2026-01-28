@@ -9,29 +9,47 @@ def update_readme(results: List[Dict]) -> bool:
     readme_path = root_dir / "README.md"
 
     now = datetime.datetime.now(
-        datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+        datetime.timezone.utc).strftime("%d.%m.%Y %H:%M UTC")
 
-    lines = ["", "| WEBSITE | STATUS | INFO |", "| :--- | :---: | :--- |"]
+    md_content = [
+        "",
+        "![Uptime Graph](uptime_chart.png)",
+        "",
+        "| Website | Status | Latency | Info |",
+        "| :--- | :---: | :---: | :--- |"
+    ]
+
     all_systems_go = True
 
     for entry in results:
-        status_icon = "\u2714 OOOONNN" if entry['status'] else "\u274C OOOOFFF"
-        lines.append(f"| {entry['url']} | {status_icon} | {entry['info']} |")
-        if not entry['status']:
+        is_online = entry['status']
+        latency = f"{entry['latency']:.2f}s"
+        name = entry['name']
+        info = entry['info']
+
+        if is_online:
+            color = "success"
+            status_text = "ONLINE"
+        else:
+            color = "critical"
+            status_text = "OFFLINE"
             all_systems_go = False
 
-    lines.append(f"\n_Last Updated: {now}_")
-    new_content = "\n".join(lines) + "\n"
+        badge = f"![Status](https://img.shields.io/badge/Status-{status_text}-{color}?style=flat-square)"
+
+        md_content.append(f"| **{name}** | {badge} | `{latency}` | {info} |")
+
+    md_content.append(f"\n_Last updated: {now}_")
+    new_block = "\n".join(md_content) + "\n"
 
     if not readme_path.exists():
-        print("Error: README not found.")
         return False
 
     with open(readme_path, "r", encoding="utf-8") as f:
         readme_content = f.read()
 
     pattern = r"(<!-- START_STATUS -->)(.*?)(<!-- END_STATUS -->)"
-    replacement = f"\\1{new_content}\\3"
+    replacement = f"\\1{new_block}\\3"
 
     new_readme_content = re.sub(
         pattern, replacement, readme_content, flags=re.DOTALL)
@@ -39,5 +57,4 @@ def update_readme(results: List[Dict]) -> bool:
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(new_readme_content)
 
-    print("README successfully updated.")
     return all_systems_go
