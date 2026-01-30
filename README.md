@@ -8,10 +8,10 @@ This repository automatically checks the status of my websites at regular interv
 
 | Website | Status | Latency | Info |
 | :--- | :---: | :---: | :--- |
-| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.43s` | 200 (0.43s) |
-| **Join** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.35s` | 200 (0.35s) |
-| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.69s` | 200 (0.69s) |
-| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.63s` | 200 (0.63s) |
+| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.19s` | 200 (0.19s) |
+| **Join** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.08s` | 200 (0.08s) |
+| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.50s` | 200 (0.50s) |
+| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.46s` | 200 (0.46s) |
 
-_Last updated: 30.01.2026 12:43 UTC_
+_Last updated: 30.01.2026 18:35 UTC_
 <!-- END_STATUS -->
