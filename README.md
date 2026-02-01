@@ -6,12 +6,12 @@ This repository automatically checks the status of my websites at regular interv
 <!-- START_STATUS -->
 ![Uptime Graph](uptime_chart.png)
 
-| Website | Status | Latency | Info |
-| :--- | :---: | :---: | :--- |
-| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.20s` | 200 (0.20s) |
-| **Join** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.13s` | 200 (0.13s) |
-| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.73s` | 200 (0.73s) |
-| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.54s` | 200 (0.54s) |
+| Website | Status | Latency | Info | Uptime |
+| :--- | :---: | :---: | :--- | :---: |
+| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.45s` | 200 (0.45s) | ![Uptime](https://img.shields.io/badge/Uptime-100.0%-brightgreen?style=flat-square) |
+| **Join** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.52s` | 200 (0.52s) | ![Uptime](https://img.shields.io/badge/Uptime-100.0%-brightgreen?style=flat-square) |
+| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.58s` | 200 (0.58s) | ![Uptime](https://img.shields.io/badge/Uptime-100.0%-brightgreen?style=flat-square) |
+| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.58s` | 200 (0.58s) | ![Uptime](https://img.shields.io/badge/Uptime-100.0%-brightgreen?style=flat-square) |
 
-_Last updated: 01.02.2026 12:38 UTC_
+_Last updated: 01.02.2026 07:57 UTC_
 <!-- END_STATUS -->
