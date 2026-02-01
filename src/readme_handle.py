@@ -30,7 +30,7 @@ def update_readme(results: List[Dict]) -> bool:
         info = entry["info"]
 
         uptime_pct = get_uptime_percentage(name)
-        uptime_str = f"{uptime_pct:.1f}%"
+        uptime_str = f"{uptime_pct:.1f}%25"
 
         if uptime_pct >= 99.0:
             uptime_color = "brightgreen"
