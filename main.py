@@ -15,15 +15,15 @@ def load_config():
     config_path = Path("config/sites.json")
     if not config_path.exists():
         sys.exit(1)
-    with open(config_path, "r", encoding="utf-8") as f:
-        return json.load(f)
+    with open(config_path, "r", encoding="utf-8") as file_path:
+        return json.load(file_path)
 
 
 def main():
     sites = load_config()
     results = []
 
-    print(f"Prüfe {len(sites)} Seiten...")
+    print(f"Check {len(sites)} Sites...")
 
     for site in sites:
         url = site["url"]
@@ -42,17 +42,20 @@ def main():
 
         results.append({
             "url": url,
-            "name": name,  # important for graph
+            "name": name,
             "status": is_online,
             "info": display_info,
             "latency": latency
         })
 
-    all_good = update_readme(results)
-
-    print("Erstelle Graph...")
+    print("save History...")
     history = save_history(results)
+    
+    print("Create Graph...")
     image_path = create_graph(history)
+
+    print("update README...")
+    all_good = update_readme(results)
 
     if image_path:
         send_discord_report(image_path)
