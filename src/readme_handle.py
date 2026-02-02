@@ -25,7 +25,7 @@ def update_readme(results: List[Dict]) -> bool:
 
     for entry in results:
         is_online = entry["status"]
-        latency = f"{entry["latency"]:.2f}s"
+        latency = f"{entry['latency']:.2f}s"
         name = entry["name"]
         info = entry["info"]
 
@@ -41,7 +41,7 @@ def update_readme(results: List[Dict]) -> bool:
         else:
             uptime_color = "red"
         
-        uptime_badge = f"![Uptime](https://img.shields.io/badge/Uptime-{uptime_str}-{uptime_color}?style=flat-square)"
+        uptime_badge = f"![Uptime](https://img.shields.io/static/v1?label=Uptime&message={uptime_str}&color={uptime_color}&style=flat-square)"
 
         if is_online:
             color = "success"
