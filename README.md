@@ -8,10 +8,10 @@ This repository automatically checks the status of my websites at regular interv
 
 | Website | Status | Latency | Info | Uptime |
 | :--- | :---: | :---: | :--- | :---: |
-| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.32s` | 200 (0.32s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
-| **Join** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.12s` | 200 (0.12s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
-| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.70s` | 200 (0.70s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
-| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.64s` | 200 (0.64s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.24s` | 200 (0.24s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **Join** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.07s` | 200 (0.07s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.37s` | 200 (0.37s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.49s` | 200 (0.49s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
 
-_Last updated: 24.02.2026 18:55 UTC_
+_Last updated: 25.02.2026 01:48 UTC_
 <!-- END_STATUS -->
