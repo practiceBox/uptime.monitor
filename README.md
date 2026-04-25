@@ -8,10 +8,10 @@ This repository automatically checks the status of my websites at regular interv
 
 | Website | Status | Latency | Info | Uptime |
 | :--- | :---: | :---: | :--- | :---: |
-| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.35s` | 200 (0.35s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.37s` | 200 (0.37s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
 | **Join** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.14s` | 200 (0.14s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
-| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.65s` | 200 (0.65s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
-| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.50s` | 200 (0.50s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.75s` | 200 (0.75s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.64s` | 200 (0.64s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
 
-_Last updated: 24.04.2026 18:41 UTC_
+_Last updated: 25.04.2026 01:58 UTC_
 <!-- END_STATUS -->
