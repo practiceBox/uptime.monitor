@@ -8,10 +8,10 @@ This repository automatically checks the status of my websites at regular interv
 
 | Website | Status | Latency | Info | Uptime |
 | :--- | :---: | :---: | :--- | :---: |
-| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.29s` | 200 (0.29s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=96.7%25&color=green&style=flat-square) |
-| **Join** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.18s` | 200 (0.18s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
-| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.46s` | 200 (0.46s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
-| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.55s` | 200 (0.55s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.35s` | 200 (0.35s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=96.7%25&color=green&style=flat-square) |
+| **Join** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.17s` | 200 (0.17s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.66s` | 200 (0.66s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.63s` | 200 (0.63s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
 
-_Last updated: 16.06.2026 16:40 UTC_
+_Last updated: 16.06.2026 20:43 UTC_
 <!-- END_STATUS -->
