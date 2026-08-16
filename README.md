@@ -8,10 +8,10 @@ This repository automatically checks the status of my websites at regular interv
 
 | Website | Status | Latency | Info | Uptime |
 | :--- | :---: | :---: | :--- | :---: |
-| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-OFFLINE-critical?style=flat-square) | `0.00s` | Status: 404 | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=46.7%25&color=red&style=flat-square) |
-| **Join** | ![Status](https://img.shields.io/badge/Status-OFFLINE-critical?style=flat-square) | `0.00s` | Status: 404 | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=46.7%25&color=red&style=flat-square) |
-| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.57s` | 200 (0.57s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
-| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.54s` | 200 (0.54s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-OFFLINE-critical?style=flat-square) | `0.00s` | Status: 404 | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=43.3%25&color=red&style=flat-square) |
+| **Join** | ![Status](https://img.shields.io/badge/Status-OFFLINE-critical?style=flat-square) | `0.00s` | Status: 404 | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=43.3%25&color=red&style=flat-square) |
+| **KanMind** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.63s` | 200 (0.63s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
+| **Coderr** | ![Status](https://img.shields.io/badge/Status-ONLINE-success?style=flat-square) | `0.64s` | 200 (0.64s) | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=100.0%25&color=brightgreen&style=flat-square) |
 
-_Last updated: 15.08.2026 18:20 UTC_
+_Last updated: 16.08.2026 00:58 UTC_
 <!-- END_STATUS -->
