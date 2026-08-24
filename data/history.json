@@ -1,12 +1,5 @@
 [
   {
-    "time": "00:55",
-    "Adem_Oencue": 0,
-    "Join": 0,
-    "KanMind": 0.455077,
-    "Coderr": 0.510685
-  },
-  {
     "time": "06:41",
     "Adem_Oencue": 0,
     "Join": 0,
@@ -208,5 +201,12 @@
     "Join": 0,
     "KanMind": 0.442695,
     "Coderr": 0.40203
+  },
+  {
+    "time": "12:36",
+    "Adem_Oencue": 0,
+    "Join": 0,
+    "KanMind": 0.473341,
+    "Coderr": 0.366865
   }
 ]
