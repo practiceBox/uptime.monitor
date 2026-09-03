@@ -10,8 +10,8 @@ This repository automatically checks the status of my websites at regular interv
 | :--- | :---: | :---: | :--- | :---: |
 | **Adem_Oencue** | ![Status](https://img.shields.io/badge/Status-OFFLINE-critical?style=flat-square) | `0.00s` | Status: 404 | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=0.0%25&color=red&style=flat-square) |
 | **Join** | ![Status](https://img.shields.io/badge/Status-OFFLINE-critical?style=flat-square) | `0.00s` | Status: 404 | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=0.0%25&color=red&style=flat-square) |
-| **KanMind** | ![Status](https://img.shields.io/badge/Status-OFFLINE-critical?style=flat-square) | `0.00s` | Timeout | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=30.0%25&color=red&style=flat-square) |
-| **Coderr** | ![Status](https://img.shields.io/badge/Status-OFFLINE-critical?style=flat-square) | `0.00s` | Timeout | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=30.0%25&color=red&style=flat-square) |
+| **KanMind** | ![Status](https://img.shields.io/badge/Status-OFFLINE-critical?style=flat-square) | `0.00s` | Timeout | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=26.7%25&color=red&style=flat-square) |
+| **Coderr** | ![Status](https://img.shields.io/badge/Status-OFFLINE-critical?style=flat-square) | `0.00s` | Timeout | ![Uptime](https://img.shields.io/static/v1?label=Uptime&message=26.7%25&color=red&style=flat-square) |
 
-_Last updated: 02.09.2026 20:24 UTC_
+_Last updated: 03.09.2026 02:35 UTC_
 <!-- END_STATUS -->
